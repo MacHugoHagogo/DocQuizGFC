@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSavePoint</key>
+	<dict>
+		<key>documentModificationDate</key>
+		<date>2018-12-10T01:12:38Z</date>
+		<key>reversionPointsByLogID</key>
+		<dict>
+			<key>O84Hj4vTQ8GusdlzRem-NQ</key>
+			<dict>
+				<key>branchHeads</key>
+				<dict>
+					<key>masterBranch</key>
+					<string>zFMgCNpS9YbhnJvcrNV5Z_CmTOo</string>
+					<key>userBranches</key>
+					<dict>
+						<key>O6sETvjdTBap7ZZ82gjGIg</key>
+						<dict>
+							<key>public</key>
+							<string>zFMgCNpS9YbhnJvcrNV5Z_CmTOo</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<key>timestamp</key>
+		<date>2018-12-10T01:12:38Z</date>
+		<key>workarea</key>
+		<string>public</string>
+	</dict>
+	<key>savePoint</key>
+	<dict>
+		<key>documentModificationDate</key>
+		<date>2018-12-10T01:12:22Z</date>
+		<key>reversionPointsByLogID</key>
+		<dict>
+			<key>O84Hj4vTQ8GusdlzRem-NQ</key>
+			<dict>
+				<key>branchHeads</key>
+				<dict>
+					<key>masterBranch</key>
+					<string>zFMgCNpS9YbhnJvcrNV5Z_CmTOo</string>
+					<key>userBranches</key>
+					<dict>
+						<key>O6sETvjdTBap7ZZ82gjGIg</key>
+						<dict>
+							<key>public</key>
+							<string>zFMgCNpS9YbhnJvcrNV5Z_CmTOo</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<key>timestamp</key>
+		<date>2018-12-10T01:12:22Z</date>
+		<key>workarea</key>
+		<string>public</string>
+	</dict>
+	<key>userNames</key>
+	<dict>
+		<key>root</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
